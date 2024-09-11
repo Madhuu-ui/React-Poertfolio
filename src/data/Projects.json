@@ -1,0 +1,19 @@
+[
+    {
+      "title": "The Ultimate React Course 2024",
+      "imageSrc": "projects/project.png",
+      "description": "Obtained this certificate from UDEMY. Its been great journey of learning and growth",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.udemy.com/certificate/UC-2490beb3-25a8-4eb6-a0f8-eb3f223bde2f/"
+    },
+    {
+      "title": "FrontEnd Development Libraries",
+      "imageSrc": "projects/project.png",
+      "description": "Obtained this certificate from FREECODECAMP. Worked on Improving and developing my skills.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.freecodecamp.org/certification/fcc041d5b26-3689-4d04-bd54-9b56af29311d/front-end-development-libraries"
+    }
+
+  ]
